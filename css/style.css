@@ -1,0 +1,50 @@
+div{
+    text-align:center;
+
+
+
+}
+body{
+    margin:0px;
+    overflow-x: hidden;
+}
+.start{
+    background-color:#BEAFC2;
+    height: 100vh;
+    width: 100vw;
+    margin:0px;
+    padding: 0px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.end{
+    background-color:#695E93;
+    height: 100vh;
+    width: 100vw;
+    margin:0px;
+    padding: 0px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+
+    font-family: 'Sacramento', cursive;
+    margin: 0px;
+    padding: 0px;
+  font-size: 50px;
+  color: #281C2D;
+  
+}
+h2{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-size:15px;
+    position:relative;
+    left: 40px;
+}
